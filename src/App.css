@@ -68,3 +68,7 @@
   border-radius: 20px;
   transition: all 0.3s ease;
 }
+.react-player {
+  height: 77vh !important;
+  width: 100% !important;
+}
